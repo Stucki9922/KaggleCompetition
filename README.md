@@ -1,0 +1,2 @@
+# KaggleCompetition
+Team Stagiaire SG
